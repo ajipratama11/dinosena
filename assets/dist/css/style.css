@@ -56,3 +56,18 @@ body {
 .navbar {
 	margin-bottom: 20px;
 }
+
+.fa {
+	font-size: 130px !important;
+	width: 160px;
+	height: 160px;
+	background-color: #337ab7;
+	border-radius: 100%;
+	text-align: center;
+	cursor: pointer;
+}
+
+
+.fa:hover {
+	color: #dbdbdb;
+}
